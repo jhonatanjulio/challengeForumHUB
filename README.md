@@ -21,21 +21,21 @@ Proposto pela Oracle Next Education, na formação de Back-end Java, em parceria
 
 ## :globe_with_meridians: Endpoints
 
-# * Tópicos
+### Tópicos
 <br>
 <div align="center">
   <img alt="Endpoints dos Tópicos" src="./img-readme/topicos.png">
 </div>
 <br>
 
-# * Respostas
+### Respostas
 <br>
 <div align="center">
   <img alt="Endpoints das Respostas" src="./img-readme/respostas.png">
 </div>
 <br>
 
-# * Usuários
+### Usuários
 <br>
 <div align="center">
   <img alt="Endpoints dos Usuários" src="./img-readme/usuarios.png">
